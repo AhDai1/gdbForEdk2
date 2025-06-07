@@ -1,0 +1,1 @@
+add-symbol-file /home/xp/ByoCode/Opensource/edk2/Build/ArmVirtQemu-AARCH64/DEBUG_GCC5/AARCH64/DxeCore.debug 0x474F4000 -s .data 0x4753F000
